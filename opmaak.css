@@ -1,0 +1,21 @@
+
+
+body {font-family: "Trebuchet MS", Trebuchet, Verdana; font-size: 0.8em; color: #35403D; line-height: 1.6em; background:#E3FFFA;}
+h1 {font-size: 1.3em; margin-top: 30px;}
+h2 {font-size: 1.2em; margin-top: 25px;}
+h3 {font-size: 1.1em; }
+a {color: #5EAD90;}
+a:visited {color: #4C7B7F;}
+
+table#hoofdnavigatie  {border-bottom: 1px #4C7B7F solid;}
+table#hoofdnavigatie td  {padding-left: 43px; padding-right:43px; }
+table#hoofdnavigatie a { font-weight: bold;  font-variant: small-caps; font-size: 1.2em;}
+table#hoofdnavigatie td.active a { color: #4C7B7F;}
+table#hoofdnavigatie  a:visited { color: #5EAD90;}
+
+table#subnavigatie a { font-weight: bold;  font-variant: small-caps; font-size: 1.2em;}
+table#subnavigatie td.active a{ color: #4C7B7F; }
+table#subnavigatie  a:visited{ color: #5EAD90; }
+
+
+p.error {color: #990000; }

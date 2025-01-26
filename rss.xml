@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+
+<title>Karens vertalerinfo</title>
+<link>http://karen.erwtje.be</link>
+<description>Alles wat je moet weten over vertaler zijn.</description>
+
+<item>
+<title>De homepage is er!</title>
+<link>http://karen.erwtje.be/</link>
+<description>De homepage is er al! Nu de inhoud nog voorzien, en dat komt wel in orde. ;)</description>
+</item>
+
+
+<item>
+<title>De RSS feed lijkt te werken</title>
+<link>http://karen.erwtje.be/</link>
+<description>De RSS feed lijkt te werken. Nu nog interessante dingen zien te vinden om te posten.</description>
+</item>
+
+<item>
+<title>The Translator takes over</title>
+<link>http://karen.erwtje.be/</link>
+<description>De dictatuur van de IT'er is ten einde. Vanaf nu kan de vertaler zelf berichtjes de wereld insturen!</description>
+</item>
+
+<item>
+<title>De website is online!</title>
+<link>http://karen.erwtje.be/</link>
+<description>Na de homepage, staat nu de rest van de site online. Er is uiteraard nog heel wat werk aan, maar met links en rechts een paar uurtjes komen we er wel.</description>
+</item>
+
+<item>
+<title>Nog een paar aanpassingen gedaan</title>
+<link>http://karen.erwtje.be/</link>
+<description>
+Vooraleer de website te bekijken, zie je nu een pagina met de boodschap dat deze site slechts een project is, dus dat zal me hopelijk behoeden van problemen wegens de bronvermelding (of het ontbreken daarvan). Er wordt aan gewerkt, echt waar!<br /><br />
+Het mailformulier ziet er ook goed uit. Ik heb de menustructuur al aangepast, zodat er nu op elke pagina een feedbackknop staat en op de pagina zelf de gebruikelijke menustructuur, zodat je kan "ontsnappen" uit de pagina als je het formulier verstuurd hebt. Dit werkt overigens ook! Ik kijk al uit naar de berichtjes in mijn mailbox :-)
+</description>
+</item>
+
+
+<item>
+<title>Website in een nieuw kleedje! CSS en scripts</title>
+<link>http://karen.erwtje.be/home_nieuws.php</link>
+<description>
+Gisteren heb ik eindelijk met het CSS-bestandje kunnen spelen! Via FireBug hebben we kleurtjes uitgetest en de lay-out wat opgefrist. Dit CSS-bestandje vervangt de normale opmaakcodes en is veel gemakkelijker in gebruik. Een link naar het CSS-bestand is opgenomen in een script dat het begin bepaalt van elke pagina van mijn website. In zo'n script kunnen nog andere dingen gedefinieerd worden zoals de titel van de site of trefwoorden en een korte inhoud voor zoekrobots. Doordat ook het CSS-bestand hierin gedefinieerd wordt, worden de wijzigingen direct doorgevoerd op elke pagina waarop het script "afgespeeld" wordt. Daarnaast staat er nu ook nog een banner bovenaan site. Daarvoor hebben we nog een heuse fotoshoot gehouden met "onzen dikke Van Dale" zodat het er allemaal weer een beetje professioneler uitziet!<br />
+Spijtig genoeg loopt het script maar tot aan de tabel omdat het subnavigatiemenu telkens verandert. Aangezien de cel met de banner pas daarna gedefinieerd wordt, kon die dus niet mee opgenomen worden en heb ik handmatig de banner naar elke pagina moeten kopiëren. Een eventuele oplossing is om per onderdeel van de site (Home, Freelance, Vertaler, Duitsland, Feedback) een apart beginscript te maken, maar dan wordt het weer wat ingewikkelder allemaal.<br /><br />
+
+Wat de structuur van mijn website betreft, had mijn zus me oorspronkelijk aangeraden om breadcrumbs te voorzien, want dat is tegenwoordig ook een "best practice" bij het maken van websites blijkbaar. Dit vond ik echter niet nodig omdat het ten eerste nogal ingewikkeld is en ik het allemaal al ingewikkeld genoeg vind! En ten tweede omdat mijn structuur toch altijd maar twee niveaus diep gaat, dus in zowel de hoofd- als de subnavigatie aanduiden in welk onderdeel je zit, is volgens mij wel genoeg. Dat wordt trouwens ook via het CSS-bestand gedaan. Op elke pagina heb ik handmatig aangeduid welke link in hoofd- en subnavigatie op dat moment bezocht werd en die heb ik de "class" "active" gegeven. Daarna moest ik enkel nog in het CSS-bestand aanduiden welke opmaak ik wilde voor links met die "class".<br />
+Een overzicht van de volledige structuur van de site vind je onder "sitemap". Ik heb er ook nog een opmerking aan toegevoegd over het zoeken binnen een website via google, aangezien ik ervaren heb dat die oplossing meestal doeltreffender is dan de "eigen" zoekvenstertjes die je dikwijls op websites ziet. Probleempje bij mijn site is dat Google mijn website nog niet vindt. Dat komt omdat ik nog geen trefwoorden in mijn heads gezet heb en dit stukje van het Web voorlopig dus nog "onzichtbaar" is voor de Googlespinnetjes. Het zal misschien wat met mijn dekselse perfectionisme te maken hebben, maar ik zet niet graag een product in de spotlights waar ik nog niet 100% tevreden over ben. Dat zal ik dus wel doen als de site qua inhoud verder geëvolueerd is.<br /><br />
+
+De inhoud van de website is dus niet zo ver geraakt als ik graag gewild had. Ik heb onder andere het hele stuk over Duitsland moeten uitstellen. Het onderdeel "Vertaler" is ook wat beperkter uitgevallen, maar naast de online resources die nu op de pagina staan, zal ik binnenkort nog een pagina toevoegen over CAT-tools. Of TenT zoals dat tegenwoordig heet, sinds <a href="http://www.translatorscafe.com/cafe/article79.htm"target="_blank">Jost Zetzsche</a> het in zijn <a href="http://www.internationalwriters.com/toolkit/"target="_blank">nieuwsbrief</a> over Translation Environment Tools had. Bij "Freelance" komt bovendien nog een pagina met externe links, want alleen al de vele vertaalblogs die je kan vinden, vormen een schat aan informatie die ik jullie niet wil onthouden! Wat de verdere ontwikkelingen van de inhoud betreft, kan ik dus alleen maar ten zeerste aanraden om deze website in het oog te houden en je absoluut in te schrijven via RSS!
+</description>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+</channel>
+
+</rss>
